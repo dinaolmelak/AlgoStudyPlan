@@ -1,8 +1,5 @@
 # One-Month AlgoExpert Study Plan
 
-This is my 1 month study plan for becoming as proficient as possible through Algoexpert platform. 
-I would like to give credit to [Chat](chat.openai.com) for this study guide. Thank you
-
 ## Week 1:
 - Familiarize myself with the platform and available resources.
 - Start with the "Easy" level questions: arrays, strings, and linked lists.
