@@ -1,27 +1,5 @@
-# One-Month AlgoExpert Study Plan
+# 3 Day Plan:
 
-## Throughout the Month:
-- Regularly review previously solved questions to reinforce understanding.
-- Take note of common algorithms, data structures, and patterns.
-- Implement solutions in your preferred programming language.
-- Seek external resources or community assistance if needed.
-
-## Week 1:
-- Familiarize myself with the platform and available resources.
-- Start with the "Easy" level questions: arrays, strings, and linked lists.
-- Aim to solve 5-7 questions per day and review video explanations.
-
-## Week 2:
-- Dive deeper into complex topics: trees, graphs, and searching algorithms.
-- Solve "Medium" level questions from AlgoExpert.
-- Aim to solve 4-6 questions per day and understand underlying algorithms.
-
-## Week 3:
-- Focus on dynamic programming, recursion, and backtracking problems.
-- Continue with "Medium" level questions, gradually transition to "Hard" level.
-- Solve 3-5 questions per day, analyze optimal solutions and complexity.
-
-## Week 4:
-- Dedicate the week to solving challenging "Hard" level questions.
-- Cover advanced topics like system design and concurrency (if comfortable).
-- Solve 2-4 questions per day, review video explanations and solutions.
+1. Pick a topic to work on and then learn about the basics of how to use the data structure or algorithm.
+2. Do as many questions on that topic as possible until it becomes comfortable.
+3. If comfortable Start another topic.
